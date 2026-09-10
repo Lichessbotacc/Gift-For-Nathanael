@@ -23,7 +23,7 @@ permissions:
   contents: write
 
 env:
-  LICHESS_USER: ${{ inputs.lichess_user || 'DarkOnCrack' }}
+  LICHESS_USER: ${{ inputs.lichess_user || 'Nathanael01' }}
   NUM_WORKERS: ${{ inputs.num_workers || '10' }}
   REQUEST_DELAY: ${{ inputs.request_delay || '1.0' }}
 
