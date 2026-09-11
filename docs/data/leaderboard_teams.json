@@ -944,7 +944,7 @@
     "last_played": 1780668000000,
     "best_finish": 4,
     "worst_finish": 137,
-    "avg_finish": 102.1,
+    "avg_finish": 102.2,
     "podiums": 0,
     "first_places": 0,
     "top3_rate": 0.0
@@ -2293,7 +2293,7 @@
     "last_played": 1789048800000,
     "best_finish": 4,
     "worst_finish": 141,
-    "avg_finish": 71.9,
+    "avg_finish": 71.8,
     "podiums": 0,
     "first_places": 0,
     "top3_rate": 0.0
@@ -4307,7 +4307,7 @@
     "last_played": 1789048800000,
     "best_finish": 11,
     "worst_finish": 159,
-    "avg_finish": 95.4,
+    "avg_finish": 95.5,
     "podiums": 0,
     "first_places": 0,
     "top3_rate": 0.0
@@ -6169,7 +6169,7 @@
     "last_played": 1757167200000,
     "best_finish": 11,
     "worst_finish": 117,
-    "avg_finish": 41.7,
+    "avg_finish": 41.8,
     "podiums": 0,
     "first_places": 0,
     "top3_rate": 0.0
@@ -6548,8 +6548,8 @@
     "active_since": 1755871200000,
     "last_played": 1756648800000,
     "best_finish": 7,
-    "worst_finish": 28,
-    "avg_finish": 18.3,
+    "worst_finish": 29,
+    "avg_finish": 18.5,
     "podiums": 0,
     "first_places": 0,
     "top3_rate": 0.0
@@ -11734,9 +11734,9 @@
     "avg_points": 0.0,
     "active_since": 1778162400000,
     "last_played": 1778162400000,
-    "best_finish": 38,
-    "worst_finish": 38,
-    "avg_finish": 38.0,
+    "best_finish": 37,
+    "worst_finish": 37,
+    "avg_finish": 37.0,
     "podiums": 0,
     "first_places": 0,
     "top3_rate": 0.0
