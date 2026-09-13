@@ -3,18 +3,18 @@
     "rank": 1,
     "team_id": "itachi-n-friends",
     "team_name": "itachi-n-friends",
-    "points": 324659,
-    "tournaments_played": 611,
+    "points": 325409,
+    "tournaments_played": 612,
     "best_tournament": "325th ULTRAbullet Team Battle",
     "best_tournament_score": 1677,
     "highest_points": 1677,
-    "avg_points": 531.4,
+    "avg_points": 531.7,
     "active_since": 1730485800000,
-    "last_played": 1789135200000,
+    "last_played": 1789221600000,
     "best_finish": 1,
     "worst_finish": 24,
     "avg_finish": 2.6,
-    "podiums": 505,
+    "podiums": 506,
     "first_places": 204,
     "top3_rate": 0.827
   },
@@ -22,33 +22,33 @@
     "rank": 2,
     "team_id": "darkonteams",
     "team_name": "darkonteams",
-    "points": 278287,
-    "tournaments_played": 509,
+    "points": 278712,
+    "tournaments_played": 510,
     "best_tournament": "171st ULTRAbullet Team Battle",
     "best_tournament_score": 2297,
     "highest_points": 2297,
-    "avg_points": 546.7,
+    "avg_points": 546.5,
     "active_since": 1739194200000,
-    "last_played": 1789135200000,
+    "last_played": 1789221600000,
     "best_finish": 1,
     "worst_finish": 53,
     "avg_finish": 3.2,
     "podiums": 360,
     "first_places": 144,
-    "top3_rate": 0.707
+    "top3_rate": 0.706
   },
   {
     "rank": 3,
     "team_id": "the-house-discord-server",
     "team_name": "the-house-discord-server",
-    "points": 149825,
-    "tournaments_played": 609,
+    "points": 149899,
+    "tournaments_played": 610,
     "best_tournament": "263rd ULTRAbullet Team Battle",
     "best_tournament_score": 1473,
     "highest_points": 1473,
-    "avg_points": 246.0,
+    "avg_points": 245.7,
     "active_since": 1730485800000,
-    "last_played": 1789135200000,
+    "last_played": 1789221600000,
     "best_finish": 1,
     "worst_finish": 189,
     "avg_finish": 11.1,
@@ -79,20 +79,20 @@
     "rank": 5,
     "team_id": "thejagdtiger--friends_new",
     "team_name": "thejagdtiger--friends_new",
-    "points": 90303,
-    "tournaments_played": 259,
+    "points": 91590,
+    "tournaments_played": 260,
     "best_tournament": "7. ULTRAbullet Alliance Team Battle",
     "best_tournament_score": 1905,
     "highest_points": 1905,
-    "avg_points": 348.7,
+    "avg_points": 352.3,
     "active_since": 1764169200000,
-    "last_played": 1789135200000,
+    "last_played": 1789221600000,
     "best_finish": 1,
     "worst_finish": 165,
-    "avg_finish": 30.7,
-    "podiums": 93,
-    "first_places": 46,
-    "top3_rate": 0.359
+    "avg_finish": 30.5,
+    "podiums": 94,
+    "first_places": 47,
+    "top3_rate": 0.362
   },
   {
     "rank": 6,
@@ -193,20 +193,20 @@
     "rank": 11,
     "team_id": "dimastup--friends",
     "team_name": "dimastup--friends",
-    "points": 19332,
-    "tournaments_played": 129,
+    "points": 19367,
+    "tournaments_played": 130,
     "best_tournament": "588th ULTRAbullet Team Battle",
     "best_tournament_score": 697,
     "highest_points": 697,
-    "avg_points": 149.9,
+    "avg_points": 149.0,
     "active_since": 1776780000000,
-    "last_played": 1789135200000,
+    "last_played": 1789221600000,
     "best_finish": 2,
     "worst_finish": 110,
     "avg_finish": 14.2,
     "podiums": 22,
     "first_places": 0,
-    "top3_rate": 0.171
+    "top3_rate": 0.169
   },
   {
     "rank": 12,
@@ -1087,19 +1087,19 @@
     "team_id": "ashamstvm",
     "team_name": "ashamstvm",
     "points": 3667,
-    "tournaments_played": 40,
+    "tournaments_played": 41,
     "best_tournament": "582nd ULTRAbullet Team Battle",
     "best_tournament_score": 368,
     "highest_points": 368,
-    "avg_points": 91.7,
+    "avg_points": 89.4,
     "active_since": 1785506400000,
-    "last_played": 1789135200000,
+    "last_played": 1789221600000,
     "best_finish": 3,
     "worst_finish": 102,
-    "avg_finish": 18.4,
+    "avg_finish": 18.2,
     "podiums": 1,
     "first_places": 0,
-    "top3_rate": 0.025
+    "top3_rate": 0.024
   },
   {
     "rank": 59,
@@ -1293,6 +1293,25 @@
   },
   {
     "rank": 69,
+    "team_id": "aarha-n-friends",
+    "team_name": "aarha-n-friends",
+    "points": 3076,
+    "tournaments_played": 33,
+    "best_tournament": "592nd ULTRAbullet Team Battle",
+    "best_tournament_score": 403,
+    "highest_points": 403,
+    "avg_points": 93.2,
+    "active_since": 1786284000000,
+    "last_played": 1789221600000,
+    "best_finish": 3,
+    "worst_finish": 198,
+    "avg_finish": 34.7,
+    "podiums": 1,
+    "first_places": 0,
+    "top3_rate": 0.03
+  },
+  {
+    "rank": 70,
     "team_id": "m0wZiI8Y",
     "team_name": "m0wZiI8Y",
     "points": 3028,
@@ -1309,25 +1328,6 @@
     "podiums": 0,
     "first_places": 0,
     "top3_rate": 0.0
-  },
-  {
-    "rank": 70,
-    "team_id": "aarha-n-friends",
-    "team_name": "aarha-n-friends",
-    "points": 2988,
-    "tournaments_played": 32,
-    "best_tournament": "592nd ULTRAbullet Team Battle",
-    "best_tournament_score": 403,
-    "highest_points": 403,
-    "avg_points": 93.4,
-    "active_since": 1786284000000,
-    "last_played": 1789135200000,
-    "best_finish": 3,
-    "worst_finish": 198,
-    "avg_finish": 35.6,
-    "podiums": 1,
-    "first_places": 0,
-    "top3_rate": 0.031
   },
   {
     "rank": 71,
@@ -1426,6 +1426,25 @@
   },
   {
     "rank": 76,
+    "team_id": "berserkers-brigade",
+    "team_name": "berserkers-brigade",
+    "points": 2513,
+    "tournaments_played": 93,
+    "best_tournament": "589th ULTRAbullet Team Battle",
+    "best_tournament_score": 368,
+    "highest_points": 368,
+    "avg_points": 27.0,
+    "active_since": 1780236000000,
+    "last_played": 1789221600000,
+    "best_finish": 3,
+    "worst_finish": 48,
+    "avg_finish": 31.6,
+    "podiums": 2,
+    "first_places": 0,
+    "top3_rate": 0.022
+  },
+  {
+    "rank": 77,
     "team_id": "ultrabullet-revolution",
     "team_name": "ultrabullet-revolution",
     "points": 2494,
@@ -1444,7 +1463,7 @@
     "top3_rate": 0.011
   },
   {
-    "rank": 77,
+    "rank": 78,
     "team_id": "y0ungs-official",
     "team_name": "y0ungs-official",
     "points": 2395,
@@ -1463,7 +1482,7 @@
     "top3_rate": 0.028
   },
   {
-    "rank": 78,
+    "rank": 79,
     "team_id": "4Ykwyl99",
     "team_name": "4Ykwyl99",
     "points": 2377,
@@ -1482,7 +1501,7 @@
     "top3_rate": 0.021
   },
   {
-    "rank": 79,
+    "rank": 80,
     "team_id": "Ejpw2HSI",
     "team_name": "Ejpw2HSI",
     "points": 2343,
@@ -1501,7 +1520,26 @@
     "top3_rate": 0.009
   },
   {
-    "rank": 80,
+    "rank": 81,
+    "team_id": "the-federation-of-united-forces",
+    "team_name": "the-federation-of-united-forces",
+    "points": 2295,
+    "tournaments_played": 20,
+    "best_tournament": "8. ULTRAbullet Alliance Team Battle",
+    "best_tournament_score": 442,
+    "highest_points": 442,
+    "avg_points": 114.8,
+    "active_since": 1787320800000,
+    "last_played": 1789221600000,
+    "best_finish": 3,
+    "worst_finish": 103,
+    "avg_finish": 47.0,
+    "podiums": 2,
+    "first_places": 0,
+    "top3_rate": 0.1
+  },
+  {
+    "rank": 82,
     "team_id": "de-chess",
     "team_name": "de-chess",
     "points": 2290,
@@ -1520,26 +1558,7 @@
     "top3_rate": 0.0
   },
   {
-    "rank": 81,
-    "team_id": "berserkers-brigade",
-    "team_name": "berserkers-brigade",
-    "points": 2252,
-    "tournaments_played": 92,
-    "best_tournament": "589th ULTRAbullet Team Battle",
-    "best_tournament_score": 368,
-    "highest_points": 368,
-    "avg_points": 24.5,
-    "active_since": 1780236000000,
-    "last_played": 1789135200000,
-    "best_finish": 3,
-    "worst_finish": 48,
-    "avg_finish": 31.9,
-    "podiums": 2,
-    "first_places": 0,
-    "top3_rate": 0.022
-  },
-  {
-    "rank": 82,
+    "rank": 83,
     "team_id": "rochade-europa-schachzeitung",
     "team_name": "rochade-europa-schachzeitung",
     "points": 2249,
@@ -1558,7 +1577,7 @@
     "top3_rate": 0.002
   },
   {
-    "rank": 83,
+    "rank": 84,
     "team_id": "berserking_kings",
     "team_name": "berserking_kings",
     "points": 2212,
@@ -1577,7 +1596,7 @@
     "top3_rate": 0.0
   },
   {
-    "rank": 84,
+    "rank": 85,
     "team_id": "octopus-knight",
     "team_name": "octopus-knight",
     "points": 2108,
@@ -1596,7 +1615,7 @@
     "top3_rate": 0.0
   },
   {
-    "rank": 85,
+    "rank": 86,
     "team_id": "the-best-team-of-chess-in-the-world",
     "team_name": "the-best-team-of-chess-in-the-world",
     "points": 2104,
@@ -1615,7 +1634,7 @@
     "top3_rate": 0.016
   },
   {
-    "rank": 86,
+    "rank": 87,
     "team_id": "chess-fools",
     "team_name": "chess-fools",
     "points": 2090,
@@ -1634,7 +1653,7 @@
     "top3_rate": 0.0
   },
   {
-    "rank": 87,
+    "rank": 88,
     "team_id": "fedai-satranc",
     "team_name": "fedai-satranc",
     "points": 2058,
@@ -1653,7 +1672,7 @@
     "top3_rate": 0.0
   },
   {
-    "rank": 88,
+    "rank": 89,
     "team_id": "rapid-80",
     "team_name": "rapid-80",
     "points": 2020,
@@ -1672,7 +1691,7 @@
     "top3_rate": 0.002
   },
   {
-    "rank": 89,
+    "rank": 90,
     "team_id": "tbraings-chess-club",
     "team_name": "tbraings-chess-club",
     "points": 2020,
@@ -1691,7 +1710,7 @@
     "top3_rate": 0.013
   },
   {
-    "rank": 90,
+    "rank": 91,
     "team_id": "time-is-battle",
     "team_name": "time-is-battle",
     "points": 2013,
@@ -1710,7 +1729,7 @@
     "top3_rate": 0.0
   },
   {
-    "rank": 91,
+    "rank": 92,
     "team_id": "fearless_king-arena",
     "team_name": "fearless_king-arena",
     "points": 1940,
@@ -1729,7 +1748,7 @@
     "top3_rate": 0.0
   },
   {
-    "rank": 92,
+    "rank": 93,
     "team_id": "fastst-team",
     "team_name": "fastst-team",
     "points": 1920,
@@ -1748,7 +1767,7 @@
     "top3_rate": 0.0
   },
   {
-    "rank": 93,
+    "rank": 94,
     "team_id": "fastchessplayers-union",
     "team_name": "fastchessplayers-union",
     "points": 1908,
@@ -1767,7 +1786,7 @@
     "top3_rate": 0.0
   },
   {
-    "rank": 94,
+    "rank": 95,
     "team_id": "magic-champions",
     "team_name": "magic-champions",
     "points": 1883,
@@ -1786,7 +1805,7 @@
     "top3_rate": 0.0
   },
   {
-    "rank": 95,
+    "rank": 96,
     "team_id": "31ZLr4dv",
     "team_name": "31ZLr4dv",
     "points": 1874,
@@ -1803,25 +1822,6 @@
     "podiums": 1,
     "first_places": 0,
     "top3_rate": 0.01
-  },
-  {
-    "rank": 96,
-    "team_id": "the-federation-of-united-forces",
-    "team_name": "the-federation-of-united-forces",
-    "points": 1853,
-    "tournaments_played": 19,
-    "best_tournament": "601st ULTRAbullet Team Battle",
-    "best_tournament_score": 378,
-    "highest_points": 378,
-    "avg_points": 97.5,
-    "active_since": 1787320800000,
-    "last_played": 1789135200000,
-    "best_finish": 3,
-    "worst_finish": 103,
-    "avg_finish": 49.4,
-    "podiums": 1,
-    "first_places": 0,
-    "top3_rate": 0.053
   },
   {
     "rank": 97,
@@ -2376,6 +2376,25 @@
   },
   {
     "rank": 126,
+    "team_id": "mihir250117-and-friends",
+    "team_name": "mihir250117-and-friends",
+    "points": 1198,
+    "tournaments_played": 31,
+    "best_tournament": "595th ULTRAbullet Team Battle",
+    "best_tournament_score": 136,
+    "highest_points": 136,
+    "avg_points": 38.6,
+    "active_since": 1786284000000,
+    "last_played": 1789221600000,
+    "best_finish": 7,
+    "worst_finish": 175,
+    "avg_finish": 30.9,
+    "podiums": 0,
+    "first_places": 0,
+    "top3_rate": 0.0
+  },
+  {
+    "rank": 127,
     "team_id": "nikitosik1708",
     "team_name": "nikitosik1708",
     "points": 1197,
@@ -2394,7 +2413,7 @@
     "top3_rate": 0.006
   },
   {
-    "rank": 127,
+    "rank": 128,
     "team_id": "central-asia",
     "team_name": "central-asia",
     "points": 1195,
@@ -2413,7 +2432,7 @@
     "top3_rate": 0.0
   },
   {
-    "rank": 128,
+    "rank": 129,
     "team_id": "meltoneks-club",
     "team_name": "meltoneks-club",
     "points": 1187,
@@ -2432,7 +2451,7 @@
     "top3_rate": 0.0
   },
   {
-    "rank": 129,
+    "rank": 130,
     "team_id": "legends-of-64-squares",
     "team_name": "legends-of-64-squares",
     "points": 1180,
@@ -2451,7 +2470,7 @@
     "top3_rate": 0.008
   },
   {
-    "rank": 130,
+    "rank": 131,
     "team_id": "alexnajaxfriends",
     "team_name": "alexnajaxfriends",
     "points": 1177,
@@ -2470,7 +2489,7 @@
     "top3_rate": 0.0
   },
   {
-    "rank": 131,
+    "rank": 132,
     "team_id": "lms-lions",
     "team_name": "lms-lions",
     "points": 1177,
@@ -2489,7 +2508,7 @@
     "top3_rate": 0.0
   },
   {
-    "rank": 132,
+    "rank": 133,
     "team_id": "chess-ille-et-vilaine35",
     "team_name": "chess-ille-et-vilaine35",
     "points": 1168,
@@ -2508,7 +2527,7 @@
     "top3_rate": 0.0
   },
   {
-    "rank": 133,
+    "rank": 134,
     "team_id": "ultrabullet-warriors-team",
     "team_name": "ultrabullet-warriors-team",
     "points": 1155,
@@ -2525,25 +2544,6 @@
     "podiums": 1,
     "first_places": 0,
     "top3_rate": 0.011
-  },
-  {
-    "rank": 134,
-    "team_id": "mihir250117-and-friends",
-    "team_name": "mihir250117-and-friends",
-    "points": 1147,
-    "tournaments_played": 30,
-    "best_tournament": "595th ULTRAbullet Team Battle",
-    "best_tournament_score": 136,
-    "highest_points": 136,
-    "avg_points": 38.2,
-    "active_since": 1786284000000,
-    "last_played": 1789135200000,
-    "best_finish": 7,
-    "worst_finish": 175,
-    "avg_finish": 31.6,
-    "podiums": 0,
-    "first_places": 0,
-    "top3_rate": 0.0
   },
   {
     "rank": 135,
@@ -6548,8 +6548,8 @@
     "active_since": 1755871200000,
     "last_played": 1756648800000,
     "best_finish": 7,
-    "worst_finish": 29,
-    "avg_finish": 18.5,
+    "worst_finish": 28,
+    "avg_finish": 18.3,
     "podiums": 0,
     "first_places": 0,
     "top3_rate": 0.0
@@ -8297,7 +8297,7 @@
     "last_played": 1789135200000,
     "best_finish": 14,
     "worst_finish": 177,
-    "avg_finish": 115.5,
+    "avg_finish": 115.6,
     "podiums": 0,
     "first_places": 0,
     "top3_rate": 0.0
@@ -11734,9 +11734,9 @@
     "avg_points": 0.0,
     "active_since": 1778162400000,
     "last_played": 1778162400000,
-    "best_finish": 38,
-    "worst_finish": 38,
-    "avg_finish": 38.0,
+    "best_finish": 37,
+    "worst_finish": 37,
+    "avg_finish": 37.0,
     "podiums": 0,
     "first_places": 0,
     "top3_rate": 0.0
